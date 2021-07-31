@@ -1,68 +1,6 @@
 {
   "medications": [
     {
-      "name": "diclofenac",
-      "route": "topical",
-      "frequency": [
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": "Weekly",
-          "detail": "1"
-        }
-      ],
-      "weekly": "monday",
-      "note": "",
-      "id": 7
-    },
-    {
-      "name": "stribild",
-      "route": "oral",
-      "frequency": [
-        {
-          "label": "Morning",
-          "detail": "2"
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        },
-        {
-          "label": false,
-          "detail": ""
-        }
-      ],
-      "weekly": "tuesday",
-      "note": "empty stomach empty stomach empty stomach empty stomach empty stomach ",
-      "id": 9
-    },
-    {
       "name": "lotensin",
       "route": "oral",
       "frequency": [
@@ -236,8 +174,41 @@
           "detail": "2"
         },
         {
-          "label": "Evening",
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": "Bedtime",
           "detail": "2"
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        }
+      ],
+      "weekly": "",
+      "note": "",
+      "id": 15
+    },
+    {
+      "name": "stribild",
+      "route": "oral",
+      "frequency": [
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": "Evening",
+          "detail": "1"
         },
         {
           "label": false,
@@ -253,8 +224,107 @@
         }
       ],
       "weekly": "",
+      "note": "on empty stomach",
+      "id": 16
+    },
+    {
+      "name": "ambien",
+      "route": "oral",
+      "frequency": [
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": "Bedtime",
+          "detail": "1"
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        }
+      ],
+      "weekly": "",
       "note": "",
-      "id": 15
+      "id": 17
+    },
+    {
+      "name": "enbrel",
+      "route": "injectable",
+      "frequency": [
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": "Weekly",
+          "detail": "1"
+        },
+        {
+          "label": false,
+          "detail": ""
+        }
+      ],
+      "weekly": "Wednesday",
+      "note": "1 pen on Wednesday",
+      "id": 19
+    },
+    {
+      "name": "Humira",
+      "route": "injectable",
+      "frequency": [
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": false,
+          "detail": ""
+        },
+        {
+          "label": "Weekly",
+          "detail": "1"
+        },
+        {
+          "label": false,
+          "detail": ""
+        }
+      ],
+      "weekly": "Thursday",
+      "note": "1 pen thur sch.",
+      "id": 20
     }
   ]
 }
